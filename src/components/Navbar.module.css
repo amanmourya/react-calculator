@@ -1,0 +1,11 @@
+/* Navbar.module.css */
+
+
+
+.nav h1 {
+  color: #000000;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: Inter;
+}
